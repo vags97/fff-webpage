@@ -34,6 +34,7 @@ p{
 	color:#444;
 	letter-spacing:0px;
 	margin-bottom:10px
+	text-align: justify;
 }
 ul,li{
 	list-style:none;
@@ -136,7 +137,7 @@ height:auto;
 text-shadow:none !important;
 top:0;
 bottom:0;
-padding:0}#headers .header-content{padding:90px 0}.header-title .text-primary{color:#24b057 !important}.header-content header-title span{margin-bottom:15px}.header-content .header-text{margin-top:15px;
+padding:0}#headers .header-content{padding:90px 0}.header-title .text-primary{color:#24b057 !important}.text-secundary{color:#19723c !important}.header-content header-title span{margin-bottom:15px}.header-content .header-text{margin-top:15px;
 font-size:14px;
 line-height:30px}.header-content .btn{margin:15px}#header-style-1{background-image:url(/assets/images/bg/hero-1-bg.jpg);-webkit-background-size:cover;-moz-background-size:cover;
 background-size:cover;

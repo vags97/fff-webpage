@@ -24,9 +24,9 @@ post_limit: 5
 title : Viernes por el Futuro Chile
 tagline: Viernes por el Futuro Chile
 author : 
-  name : Vicente Gamboa
-  image : social-image.png
-  email : vicente.gamboa@ug.uchile
+  name : Fridays For Future Chile
+  image : logo-2.png
+  email : coordinacion@fridaysforfuture.cl
   twitter : 
   facebook: fridaysforfuturechile
   instagram: fridaysforfuturechile
@@ -98,7 +98,7 @@ JB :
   comments :
     provider : disqus
     disqus : 
-      short_name : jeky-new-age
+      short_name : https-www-fridaysforfuture-cl
     #livefyre :
     #  site_id : 
     #intensedebate :
