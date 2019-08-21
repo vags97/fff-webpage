@@ -704,7 +704,7 @@ height:12px;
 margin:3px;
 background-color:#fff;
 border:0;
-opacity:0.5}#carousel-area{background:#2c3e50}#carousel-area .btn-lg{margin:10px}#carousel-area .carousel-item img{width:auto}#carousel-area .carousel-inner .active{opacity:1}#carousel-area .carousel-inner .active.left,#carousel-area .carousel-inner .active.right{left:0;
+opacity:0.5}#carousel-area{background:#2c3e50}#carousel-area .btn-lg{margin:10px}#carousel-area .carousel-item img{width:100%}#carousel-area .carousel-inner .active{opacity:1}#carousel-area .carousel-inner .active.left,#carousel-area .carousel-inner .active.right{left:0;
 opacity:0;
 z-index:1}#carousel-area .carousel-inner .next.left,#carousel-area .carousel-inner .prev.right{opacity:1}#carousel-area .carousel-control{z-index:2}#carousel-area .carousel-item .carousel-caption{top:28%;right:10%;left:10%;text-shadow:none}#carousel-area .carousel-item .carousel-caption h5{color:#fff;
 line-height:24px;
