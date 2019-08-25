@@ -681,7 +681,7 @@ height:12px !important;
 margin:5px !important;
 background:#24b057 !important}#cards-carousel .card-block{margin:0 10px;
 background:#f7f7f7}#cards-carousel .card{background:transparent;
-margin-bottom:0}#image-carousel .item{margin:10px}#image-carousel .item img{object-fit: cover}#testimonials-slider{background-color:#ccc}#testimonials-slider .testimonial{padding:150px 0;
+margin-bottom:0}#image-carousel .item{margin:10px}#image-carousel .item img{object-fit: cover;}#testimonials-slider{background-color:#ccc}#testimonials-slider .testimonial{padding:150px 0;
 text-align:center}#testimonials-slider .testimonial img{width:100px;
 height:100px;
 border-radius:100%;margin-top:-40px;
@@ -706,10 +706,7 @@ background-color:#fff;
 border:0;
 opacity:0.5}#carousel-area{background:#2c3e50}#carousel-area .btn-lg{margin:10px}
 #carousel-area .carousel-item img{
-	display:block;
-	margin:0 auto;
-	height: 100%;
-	width:auto;
+	object-fit: cover;
 }
 #carousel-area .carousel-inner .active{opacity:1}#carousel-area .carousel-inner .active.left,#carousel-area .carousel-inner .active.right{left:0;
 opacity:0;
@@ -1092,7 +1089,7 @@ line-height:20px;
 letter-spacing:0px}
 html,body{height:100%;margin:0;
 overflow-x:hidden}
-img{width:100%}.page-header{font-size:30px;
+img{width:auto; height: 100%;}.page-header{font-size:30px;
 font-weight:700;
 border:none;
 padding-top:50px;
