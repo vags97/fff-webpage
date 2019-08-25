@@ -358,7 +358,7 @@ border:none}.bg-default .navbar-nav .nav-link{color:#444}.bg-black{background-co
 font-size:20px;
 line-height:20px;
 font-weight:700;
-padding:20px 15px}.navbar-brand img{width: 80em, height:80em; }.navbar-light .navbar-brand,.navbar-light .navbar-toggler{color:#24b057 !important}.navbar-toggle .icon-bar{background:#24b057;
+padding:20px 15px}.navbar-brand img{max-width: 80px; height:auto; }.navbar-light .navbar-brand,.navbar-light .navbar-toggler{color:#24b057 !important}.navbar-toggle .icon-bar{background:#24b057;
 width:20px;
 height:3px;
 border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px}.navbar-collapse{text-align:center}.navbar{padding:0}.dropdown-menu{padding:10px 0px;
