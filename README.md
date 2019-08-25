@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
-Helium is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
+Helium is a fast, modern and configurable [Jekyll](https://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
 
 [Bootstrap theme source](https://uideck.com/products/helium-ui-kit/)
 
@@ -19,7 +19,7 @@ Though minimalistic-looking by nature, dactl is easily configurable and includes
 
 Main features:
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
-* [Font Awesome](http://fontawesome.io/)
+* [Font Awesome](https://fontawesome.io/)
 * 100+ UI Blocks
 * Responsive design
 
@@ -36,7 +36,7 @@ Other features:
 * Tags functionality and tags pages
 * Link posts functionality
 * Mobile slider scrolling
-* Emoji support ⚡️⚡️⚡️ by copy paste from [getemoji](http://getemoji.com/)
+* Emoji support ⚡️⚡️⚡️ by copy paste from [getemoji](https://getemoji.com/)
 
 Some of the features listed above can be easily configured or disabled by you.
 
@@ -69,7 +69,7 @@ Tags and tag pages are supported by using Jekyll's native collections functional
 ## Credits
 ### Resources used
 - [Helium B4](https://uideck.com/products/helium-ui-kit/)
-- [Font Awesome](http://fontawesome.io/)
+- [Font Awesome](https://fontawesome.io/)
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
 
 ### Inspiration and thoughtful code-jacking
@@ -81,7 +81,7 @@ Inspiration and bits of things listed below are present inside dactl's code:
 - Various blog posts about Jekyll and [Stackoverflow](https://www.stackoverflow.com) posts with useful [Liquid](https://github.com/Shopify/liquid) snippets.
 
 ## License
-All parts of helium Jekyll theme are free to use and abuse under the open-source [MIT license](http://opensource.org/licenses/mit-license.php).
+All parts of helium Jekyll theme are free to use and abuse under the open-source [MIT license](https://opensource.org/licenses/mit-license.php).
 
 ## TO DO
 - [ ] Add Ads Block to home page 

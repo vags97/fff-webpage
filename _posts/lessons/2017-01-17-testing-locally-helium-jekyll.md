@@ -27,7 +27,7 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 To test your site locally, you'll need
 
 1. [ruby](https://www.ruby-lang.org/en/)
-2. [Jekyll](https://http://jekyllrb.com/)
+2. [Jekyll](https://https://jekyllrb.com/)
 3. [github-pages](https://github.com/github/pages-gem) gem
 
 
@@ -38,10 +38,10 @@ There are
 
 
 In Mac OS X, older versions of ruby will already be installed.  But I
-use the [Ruby Version Manager (RVM)](http://rvm.io/) to have a more
-recent version.  You could also use [Homebrew](http://brew.sh/).
+use the [Ruby Version Manager (RVM)](https://rvm.io/) to have a more
+recent version.  You could also use [Homebrew](https://brew.sh/).
 
-In Windows, use [RubyInstaller](http://rubyinstaller.org/). (In most
+In Windows, use [RubyInstaller](https://rubyinstaller.org/). (In most
 of this tutorial, I've assumed you're using a Mac or some flavor of
 Unix. It's possible that none of this was usable for Windows
 folks. Sorry!)
@@ -55,7 +55,7 @@ Run the following command:
 
 ```
 This will install the `github-pages` gem and all dependencies
-(including [jekyll](http://jekyllrb.com/)).
+(including [jekyll](https://jekyllrb.com/)).
 
 Later, to update the gem, type:
 ``` HTML
@@ -87,9 +87,9 @@ To make jekyll automatically re-build your changes you can also add the `--watch
     jekyll serve --watch
     
 ```
-Now open your browser and go to <http://localhost:4000>.
+Now open your browser and go to <https://localhost:4000>.
 
-Read the complete tutorial on <http://jekyllrb.com/docs/usage/>.
+Read the complete tutorial on <https://jekyllrb.com/docs/usage/>.
 
 ## Testing images
 
@@ -154,4 +154,4 @@ Read the complete tutorial on <http://jekyllrb.com/docs/usage/>.
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
