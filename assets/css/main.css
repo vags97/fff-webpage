@@ -706,7 +706,11 @@ background-color:#fff;
 border:0;
 opacity:0.5}#carousel-area{background:#2c3e50}#carousel-area .btn-lg{margin:10px}
 #carousel-area .carousel-item img{
-	object-fit: cover;
+box-sizing: content-box;
+display: block;
+width: 100%;
+min-height: 180px;
+object-fit: cover;
 }
 #carousel-area .carousel-inner .active{opacity:1}#carousel-area .carousel-inner .active.left,#carousel-area .carousel-inner .active.right{left:0;
 opacity:0;
@@ -1089,7 +1093,10 @@ line-height:20px;
 letter-spacing:0px}
 html,body{height:100%;margin:0;
 overflow-x:hidden}
-img{width:auto; height: 100%;}.page-header{font-size:30px;
+img{max-width: 100%; 
+
+height: auto;
+object-fit: cover;}.page-header{font-size:30px;
 font-weight:700;
 border:none;
 padding-top:50px;
