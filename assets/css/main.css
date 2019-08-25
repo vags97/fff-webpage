@@ -681,7 +681,7 @@ height:12px !important;
 margin:5px !important;
 background:#24b057 !important}#cards-carousel .card-block{margin:0 10px;
 background:#f7f7f7}#cards-carousel .card{background:transparent;
-margin-bottom:0}#image-carousel .item{margin:10px}#image-carousel .item img{width: 100%; overflow: hidden;}#testimonials-slider{background-color:#ccc}#testimonials-slider .testimonial{padding:150px 0;
+margin-bottom:0}#image-carousel .item{margin:10px}#image-carousel .item img{width: 100%;  object-fit: cover}#testimonials-slider{background-color:#ccc}#testimonials-slider .testimonial{padding:150px 0;
 text-align:center}#testimonials-slider .testimonial img{width:100px;
 height:100px;
 border-radius:100%;margin-top:-40px;
