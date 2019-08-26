@@ -4,8 +4,9 @@ https://www.linkedin.com/in/antoniotrento/
 https://twitter.com/lantoniotrento
 lantoniotrento@gmail.com
 -->
-<html lang="en">
+<html lang="es" prefix="og: http://ogp.me/ns#">
   <head>
+
     <meta charset="utf-8">
     <meta https-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{site.title}} {{ page.title }}</title>
@@ -15,7 +16,7 @@ lantoniotrento@gmail.com
     {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}"/>{% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if page.image %}
-      <meta property="og:image" content="path/to/post/image.jpg">
+      <meta property="og:image" content="{{page.image}}">
     {% else %}
       <meta property="og:image" content="{{BASE_PATH}}/assets/image/logo.png">
     {% endif %}
