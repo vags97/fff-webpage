@@ -20,7 +20,7 @@ google_ad_client: ca-pub-9204963049240271
 
 post_limit: 5
 
-image: {{BASE_PATH}}/assets/images/logo.png
+
 
 title : FFF Chile | 
 tagline: Viernes por el Futuro Chile
@@ -147,4 +147,3 @@ JB :
 
 plugins:
   - jekyll-seo-tag
-
