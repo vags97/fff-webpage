@@ -72,7 +72,7 @@ ul,ol{
 	list-style:none;
 	padding:0}
 .orderlist li{
-	list-style:block;
+	list-style:decimal;
 	margin-left:15px;
 	text-align: justify;
 	margin-bottom: 20px;
