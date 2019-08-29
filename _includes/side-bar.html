@@ -5,6 +5,56 @@
             {% include social-block.html %}
           </div>
 
+          <div class="blog-block about-sidebar-widget">
+            <img src="{{ BASE_PATH }}/assets/images/logos/{{ site.cones.image }}">
+            <h4>{{ site.cones.name }}</h4>
+            <ul class="social-links">
+                {% if site.cones.facebook %}
+                <li>
+                  <a data-toggle="tooltip" title="" href="https://www.facebook.com/{{ site.cones.facebook }}/" title="Facebook" class="fa fa-facebook"></a>
+                </li>
+                {% endif %}
+                {% if site.cones.instagram %} 
+                <li>
+                  <a data-toggle="tooltip" title="" href="https://instagram.com/{{ site.cones.instagram }}" title="Instagram" class="fa fa-instagram"></a>
+                </li>
+                {% endif %}
+              </ul>
+          </div>
+
+          <div class="blog-block about-sidebar-widget">
+            <img src="{{ BASE_PATH }}/assets/images/logos/{{ site.resuch.image }}">
+            <h4>{{ site.resuch.name }}</h4>
+            <ul class="social-links">
+                {% if site.resuch.facebook %}
+                <li>
+                  <a data-toggle="tooltip" title="" href="https://www.facebook.com/{{ site.resuch.facebook }}/" title="Facebook" class="fa fa-facebook"></a>
+                </li>
+                {% endif %}
+                {% if site.resuch.instagram %} 
+                <li>
+                  <a data-toggle="tooltip" title="" href="https://instagram.com/{{ site.resuch.instagram }}" title="Instagram" class="fa fa-instagram"></a>
+                </li>
+                {% endif %}
+              </ul>
+          </div>
+          <div class="blog-block about-sidebar-widget">
+            <img src="{{ BASE_PATH }}/assets/images/logos/{{ site.confech.image }}">
+            <h4>{{ site.confech.name }}</h4>
+            <ul class="social-links">
+                {% if site.confech.facebook %}
+                <li>
+                  <a data-toggle="tooltip" title="" href="https://www.facebook.com/{{ site.confech.facebook }}/" title="Facebook" class="fa fa-facebook"></a>
+                </li>
+                {% endif %}
+                {% if site.confech.instagram %} 
+                <li>
+                  <a data-toggle="tooltip" title="" href="https://instagram.com/{{ site.confech.instagram }}" title="Instagram" class="fa fa-instagram"></a>
+                </li>
+                {% endif %}
+              </ul>
+          </div>
+
           <div class="mb-60"></div>
           
       

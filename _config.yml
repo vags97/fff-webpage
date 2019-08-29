@@ -32,6 +32,9 @@ author :
   facebook: fridaysforfuturechile
   instagram: fridaysforfuturechile
   feedburner : 
+  site: www.fridaysforfuture.cl
+
+
 
 
 # The production_url is only used when full-domain names are needed
@@ -147,3 +150,22 @@ JB :
 
 plugins:
   - jekyll-seo-tag
+
+
+cones:
+  name : Coordinadora Nacional de Estudiantes Secundarios
+  image : logo-cones.png
+  facebook: coneschile
+  instagram: coneschile
+
+resuch:
+  name : Red de Estudiantes Por la Sustentabilidad
+  image : logo-resuch.png
+  facebook: RESUChile
+  instagram:  resuch.chile
+
+confech:
+  name : Confederación de Estudiantes de Chile
+  image : logo-confech.png
+  facebook: Confechoficial
+  instagram: confechoficial
